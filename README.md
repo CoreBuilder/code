@@ -7,4 +7,4 @@ A golang webservice demo application.
 License
 ----
 
-See the LICENSE file for license rights and limitations (MIT).
+This project is licensed with the [MIT license](LICENSE).
